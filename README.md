@@ -1,2 +1,2 @@
-# ceybersecurity-labs
-My practice towards Cybersecurity career through practical labs and projects.
+# cybersecurity-labs
+My practice towards a Cybersecurity career through practical labs and projects.
