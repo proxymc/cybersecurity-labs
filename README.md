@@ -5,7 +5,7 @@ This repository contains hands-on cybersecurity labs covering various topics suc
 ## 📂 Lab Categories  
 
 ### 🔹 Cisco Labs 🖧  
-- **[Packet Tracer - File Integrity Check](./Cisco/Packet-Tracer/README.md)**  
+- **[Packet Tracer - File Integrity Check](./CISCO/Packet-Tracer/README.md)**  
 
 ### 🔹 Other Labs (Add more categories as you expand)  
 - **[Lab Name](./Category/Lab-Name/README.md)**  
