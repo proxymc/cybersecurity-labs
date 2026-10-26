@@ -7,6 +7,8 @@ Documented cloud security investigations, built in a live Azure tenant
 Target role: SOC Analyst / Security Analyst
 Currently: Team Leader | Edinburgh, Scotland
 
+📩 Feel free to **connect or reach out** for collaboration!  
+
 Contact: drzazgapawel84@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paweldrzazga/)
@@ -24,8 +26,6 @@ Contact: drzazgapawel84@gmail.com
 | 8 | Hunt the Threat | SIEM operations (Sentinel) | coming, week 8 |
 | 9 | Score the Tenant | Cloud security posture | coming, week 9 |
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |  
-
-### 📩 Feel free to **connect or reach out** for collaboration!  
 
 ---
 ### 📌 This repository is in the making and soon will add more labs and projects!
