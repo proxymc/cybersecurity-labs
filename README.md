@@ -7,7 +7,8 @@ Documented cloud security investigations, built in a live Azure tenant
 Target role: SOC Analyst / Security Analyst
 Currently: Team Leader | Edinburgh, Scotland
 
-Contact: [drzazgapawel84@gmail.com] 
+Contact: drzazgapawel84@gmail.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paweldrzazga/)
 
 ## Investigations
