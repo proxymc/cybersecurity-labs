@@ -5,8 +5,10 @@ Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
 Target role: SOC Analyst / Security Analyst
-Currently: Team Leader | [Edinburgh]
-Contact: [drzazgapawel84@gmail.com] · [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paweldrzazga/)
+Currently: Team Leader | Edinburgh, Scotland
+
+Contact: [drzazgapawel84@gmail.com] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paweldrzazga/)
 
 ## Investigations
 | # | Title | Focus | Write-up |
