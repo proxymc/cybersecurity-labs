@@ -1,5 +1,5 @@
 # Hello👋, My name is Pawel and this is my...
-### 💻 # Security Portfolio:
+### 💻 Security Portfolio:
 
 Documented cloud security investigations, built in a live Azure tenant
 (A multi-user training environment).
