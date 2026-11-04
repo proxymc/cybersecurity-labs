@@ -5,6 +5,7 @@ Documented cloud security investigations, built in a live Azure tenant
 (A multi-user training environment).
 
 Target role: SOC Analyst / Security Analyst
+
 Currently: Team Leader | Edinburgh, Scotland
 
 📩 Feel free to **connect or reach out** for collaboration!  
