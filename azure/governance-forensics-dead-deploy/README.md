@@ -1,5 +1,5 @@
 # OPERATION DEAD DEPLOY
-# Investigating a non-compliant deployment
+## Investigating a non-compliant deployment
 
 ## Scenario
 An intern with temporary Contributor access deployed a "test environment" over a weekend, cut every corner, and left. I arrived on Monday and had to investigate why our governance policy did not stop it.
