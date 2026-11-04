@@ -2,7 +2,7 @@
 ### 💻 # Security Portfolio:
 
 Documented cloud security investigations, built in a live Azure tenant
-(Mad Hat Labs, a multi-user training environment).
+(A multi-user training environment).
 
 Target role: SOC Analyst / Security Analyst
 Currently: Team Leader | Edinburgh, Scotland
