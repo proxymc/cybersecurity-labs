@@ -18,7 +18,7 @@ Contact: drzazgapawel84@gmail.com
 | # | Title | Focus | Write-up |
 |---|-------|-------|----------|
 | 1 | [Operation Dead Deploy](./azure/governance-forensics-dead-deploy/) | Governance forensics, deployment audit trail | Completed |
-| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) | coming, week 2 |
+| 2 | [The Stolen Identity](./azure/the-stolen-identity/) | App registration attack kill chain (Entra ID) | Completed |
 | 3 | Privilege Audit | RBAC and least privilege | coming, week 3 |
 | 4 | Spin Up and Lock Down | Compute attack surface | coming, week 4 |
 | 5 | Network the Operative | Network segmentation | coming, week 5 |
