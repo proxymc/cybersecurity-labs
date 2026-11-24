@@ -13,10 +13,16 @@ Stage 1: I opened the Azure Home dashboard and from there I went to Resource gro
 
 
 Stage 2: I investigated further by opening the offending resource group. The first action to uncover more details about this deployment is checking the Tags blade. I discovered a new tag added by the intern with typed instructions used when documenting a test resource. 
+<img width="1170" height="469" alt="Dead_Deploy_2" src="https://github.com/user-attachments/assets/b78c4600-f64e-4d5d-9822-3d3aaa970dae" />
+
 
 Stage 3: I confirmed this resource was created via an Azure Resource Manager deployment. When inspecting the Deployments blade in Settings, I found one payload that also did not follow the deployment’s naming convention. The exact timestamp and name gave strong evidence that the payload was deployed by the intern.
+<img width="1465" height="573" alt="Dead_Deploy_3" src="https://github.com/user-attachments/assets/6c25665d-b83b-4373-a659-9ff8850635f2" />
+
 
 Stage 4: Knowing that the resource group naming convention policy is supposed to enforce the rule, I further investigated the "Policies" blade. The Naming Convention rule in the Compliance blade shows as Non-Compliant, where further investigation of the Assignment blade shows that the policy has a value set to "Audit". This policy only flags non-compliant requests but it allowed our intern to deploy the offending resource. 
+<img width="1406" height="706" alt="Dead_Deploy_4" src="https://github.com/user-attachments/assets/e46bef66-5c26-4194-a001-4f8b33dec8ed" />
+
 
 ## What broke / what surprised me
 This was a fairly straightforward and simple investigation. However, prior knowledge of the tenant’s policy effects helped to pinpoint the exact reason why the misnamed resource group was allowed to exist.
