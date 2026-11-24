@@ -8,7 +8,9 @@ An intern with temporary Contributor access deployed a "test environment" over a
 Live multi-user Azure training tenant, Reader access.
 
 ## Investigation
-Stage 1: I opened the Azure Home dashboard and from there I went to Resource groups. I immediately discovered that one of the groups is misnamed and doesn't follow Microsoft's established naming convention by lacking the "rg-" prefix, environment, and region indicators.
+Stage 1: I opened the Azure Home dashboard and from there I went to Resource groups. I immediately discovered that one of the groups is misnamed and doesn't follow Microsoft's established naming convention by lacking the "rg-" prefix, environment, and region indicators. 
+<img width="1920" height="1200" alt="Dead_Deploy_1" src="https://github.com/user-attachments/assets/35bc305e-fb68-418c-846f-0240bf947476" />
+
 
 Stage 2: I investigated further by opening the offending resource group. The first action to uncover more details about this deployment is checking the Tags blade. I discovered a new tag added by the intern with typed instructions used when documenting a test resource. 
 
