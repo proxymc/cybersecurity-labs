@@ -12,7 +12,7 @@ Stage 1: I opened the Azure Home dashboard and from there I went to Resource gro
 
 Stage 2: I investigated further by opening the offending resource group. The first action to uncover more details about this deployment is checking the Tags blade. I discovered a new tag added by the intern with typed instructions used when documenting a test resource. 
 
-Stage 3: I confirmed this resource was created via an Azure Resource Manager deployment. When inspecting the Deployments blade, I found one payload that also did not follow the deployment’s naming convention. The exact timestamp and name gave strong evidence that the payload was deployed by the intern.
+Stage 3: I confirmed this resource was created via an Azure Resource Manager deployment. When inspecting the Deployments blade in Settings, I found one payload that also did not follow the deployment’s naming convention. The exact timestamp and name gave strong evidence that the payload was deployed by the intern.
 
 Stage 4: Knowing that the resource group naming convention policy is supposed to enforce the rule, I further investigated the "Policies" blade. The Naming Convention rule in the Compliance blade shows as Non-Compliant, where further investigation of the Assignment blade shows that the policy has a value set to "Audit". This policy only flags non-compliant requests but it allowed our intern to deploy the offending resource. 
 
